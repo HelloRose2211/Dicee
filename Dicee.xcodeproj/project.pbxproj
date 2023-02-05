@@ -60,8 +60,8 @@
 				C645E19C298FB52800659652 /* SceneDelegate.swift */,
 				C645E19E298FB52800659652 /* ViewController.swift */,
 				C645E1A0298FB52800659652 /* Main.storyboard */,
-				C645E1A3298FB52900659652 /* Assets.xcassets */,
 				C645E1A5298FB52900659652 /* LaunchScreen.storyboard */,
+				C645E1A3298FB52900659652 /* Assets.xcassets */,
 				C645E1A8298FB52900659652 /* Info.plist */,
 			);
 			path = Dicee;
